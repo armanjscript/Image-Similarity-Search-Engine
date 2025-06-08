@@ -57,12 +57,12 @@ To run this project, you need to have Python installed on your machine, along wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/image-similarity-search-engine.git
+   git clone https://github.com/armanjscript/Image-Similarity-Search-Engine.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd image-similarity-search-engine
+   cd Image-Similarity-Search-Engine
    ```
 
 3. Run the application:
@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or feedback, please contact me at [your_email@example.com].
+For any questions or feedback, please contact me at [armannew73@gmail.com].
